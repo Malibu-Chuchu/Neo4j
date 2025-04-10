@@ -1,0 +1,1577 @@
+[
+    {
+        "parking_slot_id": 241,
+        "parking_facilities_id": "4",
+        "slot_number": 1,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging"
+        ],
+        "status": false,
+        "created_at": "2023-01-10T23:18:27.695Z",
+        "updated_at": "2024-04-15T17:58:25.042Z"
+    },
+    {
+        "parking_slot_id": 242,
+        "parking_facilities_id": "4",
+        "slot_number": 57,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": false,
+        "created_at": "2023-01-25T17:25:49.636Z",
+        "updated_at": "2024-03-24T03:41:25.977Z"
+    },
+    {
+        "parking_slot_id": 243,
+        "parking_facilities_id": "4",
+        "slot_number": 109,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-15T21:15:36.098Z",
+        "updated_at": "2024-11-01T02:00:51.306Z"
+    },
+    {
+        "parking_slot_id": 244,
+        "parking_facilities_id": "4",
+        "slot_number": 124,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": true,
+        "created_at": "2023-01-10T10:48:17.249Z",
+        "updated_at": "2024-08-27T09:32:59.867Z"
+    },
+    {
+        "parking_slot_id": 245,
+        "parking_facilities_id": "4",
+        "slot_number": 129,
+        "add-on-fee": "15",
+        "features": [
+            "EV Charging"
+        ],
+        "status": true,
+        "created_at": "2023-01-29T23:50:56.734Z",
+        "updated_at": "2025-01-24T15:59:08.396Z"
+    },
+    {
+        "parking_slot_id": 246,
+        "parking_facilities_id": "4",
+        "slot_number": 138,
+        "add-on-fee": null,
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-03T11:17:29.827Z",
+        "updated_at": "2024-08-27T22:41:12.239Z"
+    },
+    {
+        "parking_slot_id": 247,
+        "parking_facilities_id": "4",
+        "slot_number": 160,
+        "add-on-fee": null,
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-07T04:28:58.210Z",
+        "updated_at": "2024-07-03T12:01:07.750Z"
+    },
+    {
+        "parking_slot_id": 248,
+        "parking_facilities_id": "4",
+        "slot_number": 206,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": false,
+        "created_at": "2023-01-27T03:03:30.227Z",
+        "updated_at": "2024-06-23T05:40:39.673Z"
+    },
+    {
+        "parking_slot_id": 249,
+        "parking_facilities_id": "4",
+        "slot_number": 241,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-17T23:18:25.569Z",
+        "updated_at": "2024-05-15T07:00:55.159Z"
+    },
+    {
+        "parking_slot_id": 250,
+        "parking_facilities_id": "4",
+        "slot_number": 292,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-19T17:38:32.839Z",
+        "updated_at": "2024-03-07T11:48:26.485Z"
+    },
+    {
+        "parking_slot_id": 251,
+        "parking_facilities_id": "4",
+        "slot_number": 321,
+        "add-on-fee": "5",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-10T10:56:44.604Z",
+        "updated_at": "2024-07-18T09:46:18.260Z"
+    },
+    {
+        "parking_slot_id": 252,
+        "parking_facilities_id": "4",
+        "slot_number": 354,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-22T17:14:58.900Z",
+        "updated_at": "2024-05-09T04:02:17.616Z"
+    },
+    {
+        "parking_slot_id": 253,
+        "parking_facilities_id": "4",
+        "slot_number": 364,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": false,
+        "created_at": "2023-01-22T20:02:42.815Z",
+        "updated_at": "2024-11-30T18:44:07.637Z"
+    },
+    {
+        "parking_slot_id": 254,
+        "parking_facilities_id": "4",
+        "slot_number": 368,
+        "add-on-fee": "5",
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-01T07:08:21.622Z",
+        "updated_at": "2024-05-22T18:58:20.977Z"
+    },
+    {
+        "parking_slot_id": 255,
+        "parking_facilities_id": "4",
+        "slot_number": 400,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-13T04:37:38.699Z",
+        "updated_at": "2025-01-20T14:52:54.084Z"
+    },
+    {
+        "parking_slot_id": 256,
+        "parking_facilities_id": "4",
+        "slot_number": 450,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-07T01:55:56.392Z",
+        "updated_at": "2024-11-05T05:13:27.353Z"
+    },
+    {
+        "parking_slot_id": 257,
+        "parking_facilities_id": "4",
+        "slot_number": 486,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-25T06:53:18.495Z",
+        "updated_at": "2025-02-18T02:04:35.410Z"
+    },
+    {
+        "parking_slot_id": 258,
+        "parking_facilities_id": "4",
+        "slot_number": 526,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": false,
+        "created_at": "2023-01-20T22:27:35.577Z",
+        "updated_at": "2024-02-21T04:03:34.512Z"
+    },
+    {
+        "parking_slot_id": 259,
+        "parking_facilities_id": "4",
+        "slot_number": 536,
+        "add-on-fee": "10",
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-02T23:46:46.361Z",
+        "updated_at": "2024-07-08T07:53:52.909Z"
+    },
+    {
+        "parking_slot_id": 260,
+        "parking_facilities_id": "4",
+        "slot_number": 562,
+        "add-on-fee": "15",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": false,
+        "created_at": "2023-01-17T22:48:31.032Z",
+        "updated_at": "2024-09-05T13:46:49.042Z"
+    },
+    {
+        "parking_slot_id": 261,
+        "parking_facilities_id": "4",
+        "slot_number": 571,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-08T20:49:12.787Z",
+        "updated_at": "2024-03-06T19:09:01.027Z"
+    },
+    {
+        "parking_slot_id": 262,
+        "parking_facilities_id": "4",
+        "slot_number": 628,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-07T22:09:02.281Z",
+        "updated_at": "2024-12-10T08:35:06.737Z"
+    },
+    {
+        "parking_slot_id": 263,
+        "parking_facilities_id": "4",
+        "slot_number": 680,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-12T03:29:31.176Z",
+        "updated_at": "2024-02-07T17:06:51.645Z"
+    },
+    {
+        "parking_slot_id": 264,
+        "parking_facilities_id": "4",
+        "slot_number": 712,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-19T23:35:29.463Z",
+        "updated_at": "2024-02-17T03:38:32.844Z"
+    },
+    {
+        "parking_slot_id": 265,
+        "parking_facilities_id": "4",
+        "slot_number": 768,
+        "add-on-fee": "5",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": false,
+        "created_at": "2023-01-27T00:26:22.210Z",
+        "updated_at": "2024-07-05T19:31:57.466Z"
+    },
+    {
+        "parking_slot_id": 266,
+        "parking_facilities_id": "4",
+        "slot_number": 779,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-11T06:29:09.409Z",
+        "updated_at": "2025-01-08T02:54:48.903Z"
+    },
+    {
+        "parking_slot_id": 267,
+        "parking_facilities_id": "4",
+        "slot_number": 821,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-02T08:49:43.694Z",
+        "updated_at": "2024-02-18T23:10:23.990Z"
+    },
+    {
+        "parking_slot_id": 268,
+        "parking_facilities_id": "4",
+        "slot_number": 832,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging"
+        ],
+        "status": false,
+        "created_at": "2023-01-09T19:20:22.331Z",
+        "updated_at": "2024-12-16T05:36:50.498Z"
+    },
+    {
+        "parking_slot_id": 269,
+        "parking_facilities_id": "4",
+        "slot_number": 874,
+        "add-on-fee": "5",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": true,
+        "created_at": "2023-01-19T18:15:06.156Z",
+        "updated_at": "2024-06-19T08:26:42.599Z"
+    },
+    {
+        "parking_slot_id": 270,
+        "parking_facilities_id": "4",
+        "slot_number": 931,
+        "add-on-fee": "5",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": true,
+        "created_at": "2023-01-13T10:56:18.708Z",
+        "updated_at": "2024-06-18T10:37:35.525Z"
+    },
+    {
+        "parking_slot_id": 271,
+        "parking_facilities_id": "4",
+        "slot_number": 961,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-08T06:45:39.272Z",
+        "updated_at": "2024-11-05T03:36:52.605Z"
+    },
+    {
+        "parking_slot_id": 272,
+        "parking_facilities_id": "4",
+        "slot_number": 980,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": false,
+        "created_at": "2023-01-17T07:34:58.221Z",
+        "updated_at": "2024-12-16T15:18:26.990Z"
+    },
+    {
+        "parking_slot_id": 273,
+        "parking_facilities_id": "4",
+        "slot_number": 1015,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging"
+        ],
+        "status": false,
+        "created_at": "2023-01-24T23:31:50.260Z",
+        "updated_at": "2025-01-27T23:44:18.644Z"
+    },
+    {
+        "parking_slot_id": 274,
+        "parking_facilities_id": "4",
+        "slot_number": 1023,
+        "add-on-fee": null,
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-03T14:45:37.755Z",
+        "updated_at": "2024-03-25T15:28:27.431Z"
+    },
+    {
+        "parking_slot_id": 275,
+        "parking_facilities_id": "4",
+        "slot_number": 1039,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging"
+        ],
+        "status": true,
+        "created_at": "2023-01-10T05:16:11.051Z",
+        "updated_at": "2024-07-02T22:17:35.144Z"
+    },
+    {
+        "parking_slot_id": 276,
+        "parking_facilities_id": "4",
+        "slot_number": 1080,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-24T19:30:24.988Z",
+        "updated_at": "2024-08-02T15:55:00.965Z"
+    },
+    {
+        "parking_slot_id": 277,
+        "parking_facilities_id": "4",
+        "slot_number": 1086,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-13T19:49:16.550Z",
+        "updated_at": "2024-06-21T10:01:14.205Z"
+    },
+    {
+        "parking_slot_id": 278,
+        "parking_facilities_id": "4",
+        "slot_number": 1104,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-10T04:53:33.243Z",
+        "updated_at": "2024-09-12T12:30:13.473Z"
+    },
+    {
+        "parking_slot_id": 279,
+        "parking_facilities_id": "4",
+        "slot_number": 1134,
+        "add-on-fee": "5",
+        "features": [
+            "EV Charging"
+        ],
+        "status": true,
+        "created_at": "2023-01-13T06:04:32.479Z",
+        "updated_at": "2024-11-11T18:18:51.106Z"
+    },
+    {
+        "parking_slot_id": 280,
+        "parking_facilities_id": "4",
+        "slot_number": 1173,
+        "add-on-fee": null,
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-12T04:29:15.128Z",
+        "updated_at": "2024-12-10T12:32:02.927Z"
+    },
+    {
+        "parking_slot_id": 281,
+        "parking_facilities_id": "4",
+        "slot_number": 1175,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-09T23:20:17.781Z",
+        "updated_at": "2025-02-08T05:58:20.748Z"
+    },
+    {
+        "parking_slot_id": 282,
+        "parking_facilities_id": "4",
+        "slot_number": 1179,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": true,
+        "created_at": "2023-01-13T02:59:49.682Z",
+        "updated_at": "2024-11-12T18:25:44.108Z"
+    },
+    {
+        "parking_slot_id": 283,
+        "parking_facilities_id": "4",
+        "slot_number": 1212,
+        "add-on-fee": "15",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": true,
+        "created_at": "2023-01-21T15:47:59.855Z",
+        "updated_at": "2024-10-21T10:29:51.062Z"
+    },
+    {
+        "parking_slot_id": 284,
+        "parking_facilities_id": "4",
+        "slot_number": 1223,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": false,
+        "created_at": "2023-01-25T23:32:45.552Z",
+        "updated_at": "2024-01-06T02:30:13.792Z"
+    },
+    {
+        "parking_slot_id": 285,
+        "parking_facilities_id": "4",
+        "slot_number": 1230,
+        "add-on-fee": null,
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-21T04:48:32.377Z",
+        "updated_at": "2024-12-31T11:00:56.460Z"
+    },
+    {
+        "parking_slot_id": 286,
+        "parking_facilities_id": "4",
+        "slot_number": 1231,
+        "add-on-fee": null,
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-26T17:06:22.478Z",
+        "updated_at": "2025-01-31T08:58:40.007Z"
+    },
+    {
+        "parking_slot_id": 287,
+        "parking_facilities_id": "4",
+        "slot_number": 1241,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging"
+        ],
+        "status": true,
+        "created_at": "2023-01-19T12:12:43.164Z",
+        "updated_at": "2024-01-09T18:19:13.626Z"
+    },
+    {
+        "parking_slot_id": 288,
+        "parking_facilities_id": "4",
+        "slot_number": 1280,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": false,
+        "created_at": "2023-01-25T00:03:18.089Z",
+        "updated_at": "2024-05-03T03:46:06.574Z"
+    },
+    {
+        "parking_slot_id": 289,
+        "parking_facilities_id": "4",
+        "slot_number": 1337,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": true,
+        "created_at": "2023-01-30T05:54:51.902Z",
+        "updated_at": "2024-10-27T15:04:29.547Z"
+    },
+    {
+        "parking_slot_id": 290,
+        "parking_facilities_id": "4",
+        "slot_number": 1394,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-28T08:20:04.772Z",
+        "updated_at": "2024-05-29T19:26:45.147Z"
+    },
+    {
+        "parking_slot_id": 291,
+        "parking_facilities_id": "4",
+        "slot_number": 1446,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": true,
+        "created_at": "2023-01-03T08:54:24.728Z",
+        "updated_at": "2024-02-27T17:08:00.042Z"
+    },
+    {
+        "parking_slot_id": 292,
+        "parking_facilities_id": "4",
+        "slot_number": 1471,
+        "add-on-fee": "15",
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-09T11:39:26.792Z",
+        "updated_at": "2025-01-27T05:38:23.325Z"
+    },
+    {
+        "parking_slot_id": 293,
+        "parking_facilities_id": "4",
+        "slot_number": 1510,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-21T11:58:47.154Z",
+        "updated_at": "2024-04-11T12:18:28.023Z"
+    },
+    {
+        "parking_slot_id": 294,
+        "parking_facilities_id": "4",
+        "slot_number": 1558,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-21T01:56:09.499Z",
+        "updated_at": "2024-12-11T11:23:30.230Z"
+    },
+    {
+        "parking_slot_id": 295,
+        "parking_facilities_id": "4",
+        "slot_number": 1608,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": true,
+        "created_at": "2023-01-06T13:24:49.189Z",
+        "updated_at": "2024-12-04T03:28:36.933Z"
+    },
+    {
+        "parking_slot_id": 296,
+        "parking_facilities_id": "4",
+        "slot_number": 1613,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": false,
+        "created_at": "2023-01-28T13:40:54.446Z",
+        "updated_at": "2025-01-01T17:51:33.012Z"
+    },
+    {
+        "parking_slot_id": 297,
+        "parking_facilities_id": "4",
+        "slot_number": 1635,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging"
+        ],
+        "status": true,
+        "created_at": "2023-01-07T01:39:17.603Z",
+        "updated_at": "2025-01-08T14:26:38.913Z"
+    },
+    {
+        "parking_slot_id": 298,
+        "parking_facilities_id": "4",
+        "slot_number": 1687,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": true,
+        "created_at": "2023-01-20T05:31:09.495Z",
+        "updated_at": "2024-12-21T23:24:47.629Z"
+    },
+    {
+        "parking_slot_id": 299,
+        "parking_facilities_id": "4",
+        "slot_number": 1741,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": false,
+        "created_at": "2023-01-09T00:11:28.209Z",
+        "updated_at": "2024-03-09T08:02:05.667Z"
+    },
+    {
+        "parking_slot_id": 300,
+        "parking_facilities_id": "4",
+        "slot_number": 1791,
+        "add-on-fee": "15",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-17T20:31:11.805Z",
+        "updated_at": "2024-07-24T23:24:24.956Z"
+    },
+    {
+        "parking_slot_id": 301,
+        "parking_facilities_id": "4",
+        "slot_number": 1842,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-11T07:45:21.665Z",
+        "updated_at": "2024-11-13T04:57:58.290Z"
+    },
+    {
+        "parking_slot_id": 302,
+        "parking_facilities_id": "4",
+        "slot_number": 1843,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-20T09:02:48.238Z",
+        "updated_at": "2024-11-14T04:14:59.977Z"
+    },
+    {
+        "parking_slot_id": 303,
+        "parking_facilities_id": "4",
+        "slot_number": 1888,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging"
+        ],
+        "status": false,
+        "created_at": "2022-12-31T23:31:53.420Z",
+        "updated_at": "2024-05-22T08:51:33.196Z"
+    },
+    {
+        "parking_slot_id": 304,
+        "parking_facilities_id": "4",
+        "slot_number": 1920,
+        "add-on-fee": null,
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-29T04:37:00.475Z",
+        "updated_at": "2024-12-16T05:10:08.735Z"
+    },
+    {
+        "parking_slot_id": 305,
+        "parking_facilities_id": "4",
+        "slot_number": 1930,
+        "add-on-fee": null,
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-25T15:04:38.142Z",
+        "updated_at": "2024-03-06T04:33:40.115Z"
+    },
+    {
+        "parking_slot_id": 306,
+        "parking_facilities_id": "4",
+        "slot_number": 1976,
+        "add-on-fee": null,
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-10T07:30:19.169Z",
+        "updated_at": "2024-08-15T11:09:51.081Z"
+    },
+    {
+        "parking_slot_id": 307,
+        "parking_facilities_id": "4",
+        "slot_number": 1995,
+        "add-on-fee": "15",
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-07T05:25:07.441Z",
+        "updated_at": "2024-02-16T19:50:03.219Z"
+    },
+    {
+        "parking_slot_id": 308,
+        "parking_facilities_id": "4",
+        "slot_number": 2050,
+        "add-on-fee": "5",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-03T17:11:20.908Z",
+        "updated_at": "2024-09-19T00:35:55.404Z"
+    },
+    {
+        "parking_slot_id": 309,
+        "parking_facilities_id": "4",
+        "slot_number": 2063,
+        "add-on-fee": null,
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-20T17:51:55.818Z",
+        "updated_at": "2024-11-21T23:58:35.956Z"
+    },
+    {
+        "parking_slot_id": 310,
+        "parking_facilities_id": "4",
+        "slot_number": 2123,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": false,
+        "created_at": "2023-01-29T01:23:14.760Z",
+        "updated_at": "2024-06-18T20:22:23.251Z"
+    },
+    {
+        "parking_slot_id": 311,
+        "parking_facilities_id": "4",
+        "slot_number": 2171,
+        "add-on-fee": null,
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-30T02:08:43.043Z",
+        "updated_at": "2025-02-04T16:19:55.175Z"
+    },
+    {
+        "parking_slot_id": 312,
+        "parking_facilities_id": "4",
+        "slot_number": 2175,
+        "add-on-fee": "15",
+        "features": [
+            "EV Charging"
+        ],
+        "status": true,
+        "created_at": "2023-01-02T12:53:37.118Z",
+        "updated_at": "2024-09-21T03:52:29.219Z"
+    },
+    {
+        "parking_slot_id": 313,
+        "parking_facilities_id": "4",
+        "slot_number": 2230,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-19T01:39:26.222Z",
+        "updated_at": "2024-02-16T13:28:12.152Z"
+    },
+    {
+        "parking_slot_id": 314,
+        "parking_facilities_id": "4",
+        "slot_number": 2272,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-02T18:05:09.055Z",
+        "updated_at": "2024-03-05T11:10:32.244Z"
+    },
+    {
+        "parking_slot_id": 315,
+        "parking_facilities_id": "4",
+        "slot_number": 2300,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": false,
+        "created_at": "2023-01-23T11:51:18.029Z",
+        "updated_at": "2024-05-11T20:08:58.022Z"
+    },
+    {
+        "parking_slot_id": 316,
+        "parking_facilities_id": "4",
+        "slot_number": 2302,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-20T09:20:26.468Z",
+        "updated_at": "2024-09-18T11:48:30.618Z"
+    },
+    {
+        "parking_slot_id": 317,
+        "parking_facilities_id": "4",
+        "slot_number": 2350,
+        "add-on-fee": "5",
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-11T22:16:46.958Z",
+        "updated_at": "2024-09-03T08:45:41.253Z"
+    },
+    {
+        "parking_slot_id": 318,
+        "parking_facilities_id": "4",
+        "slot_number": 2390,
+        "add-on-fee": "5",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-03T21:39:08.883Z",
+        "updated_at": "2024-08-14T10:51:56.400Z"
+    },
+    {
+        "parking_slot_id": 319,
+        "parking_facilities_id": "4",
+        "slot_number": 2441,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-04T20:22:51.749Z",
+        "updated_at": "2024-11-10T20:36:12.268Z"
+    },
+    {
+        "parking_slot_id": 320,
+        "parking_facilities_id": "4",
+        "slot_number": 2464,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-01T09:25:31.073Z",
+        "updated_at": "2024-03-30T00:03:22.163Z"
+    },
+    {
+        "parking_slot_id": 321,
+        "parking_facilities_id": "4",
+        "slot_number": 2470,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-18T00:13:32.489Z",
+        "updated_at": "2024-10-27T23:03:04.029Z"
+    },
+    {
+        "parking_slot_id": 322,
+        "parking_facilities_id": "4",
+        "slot_number": 2473,
+        "add-on-fee": "15",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-04T16:09:51.906Z",
+        "updated_at": "2024-08-18T12:07:34.603Z"
+    },
+    {
+        "parking_slot_id": 323,
+        "parking_facilities_id": "4",
+        "slot_number": 2503,
+        "add-on-fee": null,
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-30T11:06:40.102Z",
+        "updated_at": "2025-01-17T16:01:14.723Z"
+    },
+    {
+        "parking_slot_id": 324,
+        "parking_facilities_id": "4",
+        "slot_number": 2545,
+        "add-on-fee": "15",
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-27T00:21:30.410Z",
+        "updated_at": "2024-06-27T19:37:46.450Z"
+    },
+    {
+        "parking_slot_id": 325,
+        "parking_facilities_id": "4",
+        "slot_number": 2579,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging"
+        ],
+        "status": true,
+        "created_at": "2023-01-12T06:08:07.722Z",
+        "updated_at": "2024-12-18T19:57:40.957Z"
+    },
+    {
+        "parking_slot_id": 326,
+        "parking_facilities_id": "4",
+        "slot_number": 2622,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": false,
+        "created_at": "2023-01-24T16:14:56.387Z",
+        "updated_at": "2024-11-07T01:35:08.892Z"
+    },
+    {
+        "parking_slot_id": 327,
+        "parking_facilities_id": "4",
+        "slot_number": 2667,
+        "add-on-fee": null,
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-14T06:32:57.948Z",
+        "updated_at": "2024-06-27T06:26:35.782Z"
+    },
+    {
+        "parking_slot_id": 328,
+        "parking_facilities_id": "4",
+        "slot_number": 2687,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging"
+        ],
+        "status": true,
+        "created_at": "2023-01-09T01:02:55.016Z",
+        "updated_at": "2024-05-18T17:56:31.328Z"
+    },
+    {
+        "parking_slot_id": 329,
+        "parking_facilities_id": "4",
+        "slot_number": 2698,
+        "add-on-fee": null,
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-08T09:21:56.856Z",
+        "updated_at": "2025-01-18T01:41:09.884Z"
+    },
+    {
+        "parking_slot_id": 330,
+        "parking_facilities_id": "4",
+        "slot_number": 2721,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging"
+        ],
+        "status": true,
+        "created_at": "2023-01-03T16:16:29.202Z",
+        "updated_at": "2024-12-26T18:56:44.568Z"
+    },
+    {
+        "parking_slot_id": 331,
+        "parking_facilities_id": "4",
+        "slot_number": 2771,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": false,
+        "created_at": "2023-01-15T15:24:50.626Z",
+        "updated_at": "2024-10-29T23:23:24.011Z"
+    },
+    {
+        "parking_slot_id": 332,
+        "parking_facilities_id": "4",
+        "slot_number": 2779,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-01T01:20:45.163Z",
+        "updated_at": "2024-06-15T08:10:09.997Z"
+    },
+    {
+        "parking_slot_id": 333,
+        "parking_facilities_id": "4",
+        "slot_number": 2797,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": false,
+        "created_at": "2023-01-09T04:18:14.507Z",
+        "updated_at": "2024-09-06T02:00:12.370Z"
+    },
+    {
+        "parking_slot_id": 334,
+        "parking_facilities_id": "4",
+        "slot_number": 2846,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-25T07:31:52.771Z",
+        "updated_at": "2024-09-13T08:09:18.707Z"
+    },
+    {
+        "parking_slot_id": 335,
+        "parking_facilities_id": "4",
+        "slot_number": 2902,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": true,
+        "created_at": "2023-01-27T02:44:56.252Z",
+        "updated_at": "2024-01-29T04:01:06.882Z"
+    },
+    {
+        "parking_slot_id": 336,
+        "parking_facilities_id": "4",
+        "slot_number": 2958,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-17T01:43:15.075Z",
+        "updated_at": "2024-04-18T06:35:06.972Z"
+    },
+    {
+        "parking_slot_id": 337,
+        "parking_facilities_id": "4",
+        "slot_number": 2977,
+        "add-on-fee": null,
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-12T04:06:42.536Z",
+        "updated_at": "2024-03-26T01:29:30.363Z"
+    },
+    {
+        "parking_slot_id": 338,
+        "parking_facilities_id": "4",
+        "slot_number": 2987,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-07T13:32:08.332Z",
+        "updated_at": "2024-11-20T06:06:03.900Z"
+    },
+    {
+        "parking_slot_id": 339,
+        "parking_facilities_id": "4",
+        "slot_number": 2998,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": false,
+        "created_at": "2023-01-22T19:02:04.311Z",
+        "updated_at": "2024-10-12T09:04:49.516Z"
+    },
+    {
+        "parking_slot_id": 340,
+        "parking_facilities_id": "4",
+        "slot_number": 3017,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-04T03:09:58.899Z",
+        "updated_at": "2024-12-14T04:24:52.185Z"
+    },
+    {
+        "parking_slot_id": 341,
+        "parking_facilities_id": "4",
+        "slot_number": 3036,
+        "add-on-fee": "10",
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-11T05:03:25.612Z",
+        "updated_at": "2024-01-22T18:17:16.152Z"
+    },
+    {
+        "parking_slot_id": 342,
+        "parking_facilities_id": "4",
+        "slot_number": 3059,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": false,
+        "created_at": "2023-01-06T19:21:12.115Z",
+        "updated_at": "2024-02-22T09:41:09.450Z"
+    },
+    {
+        "parking_slot_id": 343,
+        "parking_facilities_id": "4",
+        "slot_number": 3074,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-10T16:07:53.059Z",
+        "updated_at": "2024-05-06T06:29:59.434Z"
+    },
+    {
+        "parking_slot_id": 344,
+        "parking_facilities_id": "4",
+        "slot_number": 3116,
+        "add-on-fee": "10",
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-14T12:55:55.892Z",
+        "updated_at": "2024-06-23T22:08:53.588Z"
+    },
+    {
+        "parking_slot_id": 345,
+        "parking_facilities_id": "4",
+        "slot_number": 3124,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-07T00:38:07.025Z",
+        "updated_at": "2024-11-20T21:58:41.697Z"
+    },
+    {
+        "parking_slot_id": 346,
+        "parking_facilities_id": "4",
+        "slot_number": 3180,
+        "add-on-fee": "15",
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-06T12:39:44.215Z",
+        "updated_at": "2024-05-04T16:54:47.380Z"
+    },
+    {
+        "parking_slot_id": 347,
+        "parking_facilities_id": "4",
+        "slot_number": 3194,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": false,
+        "created_at": "2023-01-13T08:41:59.804Z",
+        "updated_at": "2024-05-02T13:06:02.101Z"
+    },
+    {
+        "parking_slot_id": 348,
+        "parking_facilities_id": "4",
+        "slot_number": 3201,
+        "add-on-fee": null,
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-13T06:21:15.514Z",
+        "updated_at": "2024-04-22T22:16:58.173Z"
+    },
+    {
+        "parking_slot_id": 349,
+        "parking_facilities_id": "4",
+        "slot_number": 3257,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking"
+        ],
+        "status": true,
+        "created_at": "2023-01-01T22:19:21.066Z",
+        "updated_at": "2024-09-07T17:36:33.358Z"
+    },
+    {
+        "parking_slot_id": 350,
+        "parking_facilities_id": "4",
+        "slot_number": 3293,
+        "add-on-fee": "15",
+        "features": null,
+        "status": true,
+        "created_at": "2023-01-19T16:09:22.874Z",
+        "updated_at": "2024-03-01T15:05:31.634Z"
+    },
+    {
+        "parking_slot_id": 351,
+        "parking_facilities_id": "4",
+        "slot_number": 3312,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-07T03:35:11.579Z",
+        "updated_at": "2025-01-29T10:52:26.393Z"
+    },
+    {
+        "parking_slot_id": 352,
+        "parking_facilities_id": "4",
+        "slot_number": 3333,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment"
+        ],
+        "status": false,
+        "created_at": "2023-01-01T23:09:17.534Z",
+        "updated_at": "2025-02-14T00:47:11.965Z"
+    },
+    {
+        "parking_slot_id": 353,
+        "parking_facilities_id": "4",
+        "slot_number": 3365,
+        "add-on-fee": "5",
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-27T07:52:27.136Z",
+        "updated_at": "2024-11-13T21:49:50.174Z"
+    },
+    {
+        "parking_slot_id": 354,
+        "parking_facilities_id": "4",
+        "slot_number": 3396,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": true,
+        "created_at": "2023-01-22T20:11:28.137Z",
+        "updated_at": "2024-02-27T20:29:14.386Z"
+    },
+    {
+        "parking_slot_id": 355,
+        "parking_facilities_id": "4",
+        "slot_number": 3419,
+        "add-on-fee": null,
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-07T06:08:53.147Z",
+        "updated_at": "2024-03-02T01:55:26.001Z"
+    },
+    {
+        "parking_slot_id": 356,
+        "parking_facilities_id": "4",
+        "slot_number": 3439,
+        "add-on-fee": "15",
+        "features": null,
+        "status": false,
+        "created_at": "2023-01-21T20:38:02.194Z",
+        "updated_at": "2024-07-09T15:06:12.354Z"
+    },
+    {
+        "parking_slot_id": 357,
+        "parking_facilities_id": "4",
+        "slot_number": 3447,
+        "add-on-fee": "15",
+        "features": [
+            "EV Charging"
+        ],
+        "status": true,
+        "created_at": "2023-01-10T15:44:44.403Z",
+        "updated_at": "2024-06-17T05:57:22.047Z"
+    },
+    {
+        "parking_slot_id": 358,
+        "parking_facilities_id": "4",
+        "slot_number": 3496,
+        "add-on-fee": "10",
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access"
+        ],
+        "status": false,
+        "created_at": "2023-01-13T22:42:53.816Z",
+        "updated_at": "2024-12-23T12:03:34.454Z"
+    },
+    {
+        "parking_slot_id": 359,
+        "parking_facilities_id": "4",
+        "slot_number": 3501,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance"
+        ],
+        "status": true,
+        "created_at": "2023-01-13T06:16:02.470Z",
+        "updated_at": "2024-07-12T18:12:43.949Z"
+    },
+    {
+        "parking_slot_id": 360,
+        "parking_facilities_id": "4",
+        "slot_number": 3538,
+        "add-on-fee": null,
+        "features": [
+            "EV Charging"
+        ],
+        "status": true,
+        "created_at": "2023-01-25T08:54:10.212Z",
+        "updated_at": "2024-04-13T04:59:59.836Z"
+    }
+]

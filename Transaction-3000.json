@@ -1,0 +1,1970 @@
+[
+    {
+        "transaction_id": 0,
+        "user_id": 177,
+        "parking_slot_id": 317,
+        "vehicle": {
+            "license_number": "TE-5243",
+            "type": "Hatchback",
+            "is_ev": false
+        },
+        "entry_time": "03:49",
+        "exit_time": "03:24",
+        "amount_paid": "90",
+        "payment_method": "Subscription",
+        "invoice_niumber": "374746825170026",
+        "created_at": "2024-03-02T23:28:54.410Z",
+        "updated_at": "2024-03-21T04:58:11.164Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-02-29T13:56:09.944Z",
+            "end_date": "2024-11-10T14:23:27.489Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Student Discount",
+            "description": "ad ut magna sint laborum deserunt in duis ut excepteur deserunt eu aute do cupidatat labore",
+            "percentage": 30
+        },
+        "feedback": null
+    },
+    {
+        "transaction_id": 1,
+        "user_id": 78,
+        "parking_slot_id": 137,
+        "vehicle": {
+            "license_number": "AR-8363",
+            "type": "Cargo Van",
+            "is_ev": false
+        },
+        "entry_time": "04:37",
+        "exit_time": "22:56",
+        "amount_paid": "90",
+        "payment_method": "Cash",
+        "invoice_niumber": "343134291090705",
+        "created_at": "2024-05-16T13:21:30.830Z",
+        "updated_at": "2024-06-09T01:48:59.160Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-03-22T22:19:02.744Z",
+            "end_date": "2024-11-08T14:41:20.266Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "occaecat cupidatat veniam id consequat elit anim et deserunt occaecat excepteur proident ea elit",
+            "rating": 4
+        }
+    },
+    {
+        "transaction_id": 2,
+        "user_id": 161,
+        "parking_slot_id": 197,
+        "vehicle": {
+            "license_number": "HC-3204",
+            "type": "Crew Cab Pickup",
+            "is_ev": true
+        },
+        "entry_time": "06:24",
+        "exit_time": "01:48",
+        "amount_paid": "90",
+        "payment_method": "Cash",
+        "invoice_niumber": "2149910326498662",
+        "created_at": "2024-11-22T19:52:22.123Z",
+        "updated_at": "2024-09-06T02:50:39.441Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-02-11T12:15:30.394Z",
+            "end_date": "2024-11-11T06:08:32.667Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Double Parking",
+            "description": "commodo commodo cillum est id exercitation qui sit sit",
+            "custom_fine": 37,
+            "status": "resolved"
+        },
+        "discount": {
+            "discount_name": "Early Bird Discount",
+            "description": "sint magna consectetur culpa deserunt quis laborum ex eu do quis proident",
+            "percentage": 1
+        },
+        "feedback": {
+            "comment": "",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 3,
+        "user_id": 41,
+        "parking_slot_id": 347,
+        "vehicle": {
+            "license_number": "AK-3271",
+            "type": "Passenger Van",
+            "is_ev": true
+        },
+        "entry_time": "11:15",
+        "exit_time": "14:14",
+        "amount_paid": "100",
+        "payment_method": "Subscription",
+        "invoice_niumber": "4532639419370238",
+        "created_at": "2024-01-12T18:57:49.429Z",
+        "updated_at": "2024-12-05T15:28:45.721Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-09T08:30:26.922Z",
+            "end_date": "2025-01-08T02:41:51.480Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Overstay",
+            "description": "magna commodo velit qui enim adipisicing dolor cupidatat dolor laboris voluptate consequat magna eu commodo sint",
+            "custom_fine": 6,
+            "status": "pending"
+        },
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 4,
+        "user_id": 118,
+        "parking_slot_id": 171,
+        "vehicle": {
+            "license_number": "RA-0257",
+            "type": "Hatchback",
+            "is_ev": false
+        },
+        "entry_time": "10:14",
+        "exit_time": "15:59",
+        "amount_paid": "70",
+        "payment_method": "Cash",
+        "invoice_niumber": "2014642714669842",
+        "created_at": "2024-10-20T03:28:29.748Z",
+        "updated_at": "2024-01-15T01:02:00.914Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-06-17T10:50:32.764Z",
+            "end_date": "2025-02-01T21:21:57.225Z",
+            "status": false
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "ut mollit ipsum aute deserunt deserunt occaecat incididunt consectetur aliquip magna esse tempor veniam cillum ad ipsum voluptate",
+            "rating": 5
+        }
+    },
+    {
+        "transaction_id": 5,
+        "user_id": 59,
+        "parking_slot_id": 162,
+        "vehicle": {
+            "license_number": "RL-0683",
+            "type": "Sedan",
+            "is_ev": false
+        },
+        "entry_time": "02:09",
+        "exit_time": "19:58",
+        "amount_paid": "90",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "5214601688725643",
+        "created_at": "2024-10-19T21:22:12.556Z",
+        "updated_at": "2024-06-24T17:05:23.562Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-04-22T11:41:12.291Z",
+            "end_date": "2025-02-25T23:29:39.947Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Overstay",
+            "description": "sunt dolore excepteur duis dolore minim dolor pariatur officia occaecat consequat veniam irure veniam",
+            "custom_fine": 64,
+            "status": "resolved"
+        },
+        "discount": null,
+        "feedback": {
+            "comment": "esse est et incididunt Lorem deserunt sint non non eiusmod veniam nostrud sunt enim proident",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 6,
+        "user_id": 17,
+        "parking_slot_id": 321,
+        "vehicle": {
+            "license_number": "HE-7042",
+            "type": "Sedan",
+            "is_ev": true
+        },
+        "entry_time": "05:20",
+        "exit_time": "20:02",
+        "amount_paid": "60",
+        "payment_method": "Subscription",
+        "invoice_niumber": "4292134546383163",
+        "created_at": "2024-08-06T08:33:51.093Z",
+        "updated_at": "2024-08-27T04:46:16.807Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-03-13T08:21:58.593Z",
+            "end_date": "2024-12-23T03:16:45.709Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Student Discount",
+            "description": "veniam sit aliqua in ut sint amet deserunt",
+            "percentage": 3
+        },
+        "feedback": null
+    },
+    {
+        "transaction_id": 7,
+        "user_id": 153,
+        "parking_slot_id": 353,
+        "vehicle": {
+            "license_number": "NZ-5895",
+            "type": "Wagon",
+            "is_ev": false
+        },
+        "entry_time": "00:21",
+        "exit_time": "01:37",
+        "amount_paid": "70",
+        "payment_method": "Cash",
+        "invoice_niumber": "3589349976129910",
+        "created_at": "2024-04-06T19:26:52.852Z",
+        "updated_at": "2024-03-22T13:57:59.148Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-05-20T17:48:40.337Z",
+            "end_date": "2024-12-17T01:49:14.610Z",
+            "status": false
+        },
+        "violations": {
+            "violation_name": "Illegal Vehicle Type",
+            "description": "reprehenderit et nostrud magna esse pariatur do excepteur aliqua ex eu sint cupidatat est esse ad amet aliquip",
+            "custom_fine": 88,
+            "status": "pending"
+        },
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 8,
+        "user_id": 157,
+        "parking_slot_id": 217,
+        "vehicle": {
+            "license_number": "CV-2339",
+            "type": "Extended Cab Pickup",
+            "is_ev": false
+        },
+        "entry_time": "04:48",
+        "exit_time": "03:39",
+        "amount_paid": "80",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "8699588054723492",
+        "created_at": "2024-09-10T10:29:06.823Z",
+        "updated_at": "2024-08-17T18:12:39.412Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-25T10:51:58.821Z",
+            "end_date": "2025-03-03T06:17:13.168Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 9,
+        "user_id": 60,
+        "parking_slot_id": 80,
+        "vehicle": {
+            "license_number": "QH-1021",
+            "type": "Cargo Van",
+            "is_ev": true
+        },
+        "entry_time": "06:21",
+        "exit_time": "05:02",
+        "amount_paid": "60",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "3586214778927833",
+        "created_at": "2024-05-14T06:00:17.789Z",
+        "updated_at": "2024-06-10T23:53:20.293Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-04-13T23:30:32.339Z",
+            "end_date": "2024-11-14T22:25:06.763Z",
+            "status": false
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "non eiusmod officia pariatur officia tempor pariatur nostrud minim",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 10,
+        "user_id": 60,
+        "parking_slot_id": 239,
+        "vehicle": {
+            "license_number": "HL-3404",
+            "type": "Wagon",
+            "is_ev": true
+        },
+        "entry_time": "13:36",
+        "exit_time": "16:34",
+        "amount_paid": "60",
+        "payment_method": "Cash",
+        "invoice_niumber": "6011463895868572",
+        "created_at": "2024-02-27T12:51:08.407Z",
+        "updated_at": "2024-04-19T23:42:09.238Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-02-03T20:56:22.255Z",
+            "end_date": "2025-04-08T20:37:57.520Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "quis irure",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 11,
+        "user_id": 192,
+        "parking_slot_id": 44,
+        "vehicle": {
+            "license_number": "BF-2735",
+            "type": "SUV",
+            "is_ev": false
+        },
+        "entry_time": "02:02",
+        "exit_time": "23:41",
+        "amount_paid": "90",
+        "payment_method": "Subscription",
+        "invoice_niumber": "4929053209706208",
+        "created_at": "2024-01-29T14:18:36.978Z",
+        "updated_at": "2024-05-13T14:51:11.308Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-03-01T18:38:34.682Z",
+            "end_date": "2025-02-08T10:11:04.307Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Early Bird Discount",
+            "description": "minim nulla dolor nulla aute consectetur eu nulla ad dolor",
+            "percentage": 2
+        },
+        "feedback": {
+            "comment": "laborum",
+            "rating": 3
+        }
+    },
+    {
+        "transaction_id": 12,
+        "user_id": 111,
+        "parking_slot_id": 81,
+        "vehicle": {
+            "license_number": "AW-1913",
+            "type": "SUV",
+            "is_ev": false
+        },
+        "entry_time": "13:28",
+        "exit_time": "13:31",
+        "amount_paid": "50",
+        "payment_method": "Cash",
+        "invoice_niumber": "2014760377270094",
+        "created_at": "2024-07-08T17:14:04.465Z",
+        "updated_at": "2024-11-06T13:14:49.294Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-03-16T21:45:26.039Z",
+            "end_date": "2024-12-09T19:44:53.533Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 13,
+        "user_id": 155,
+        "parking_slot_id": 261,
+        "vehicle": {
+            "license_number": "WH-3134",
+            "type": "Passenger Van",
+            "is_ev": false
+        },
+        "entry_time": "18:13",
+        "exit_time": "19:00",
+        "amount_paid": "80",
+        "payment_method": "Subscription",
+        "invoice_niumber": "3597172256214883",
+        "created_at": "2024-02-26T12:18:46.055Z",
+        "updated_at": "2024-04-24T16:31:17.735Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-07-03T01:46:27.625Z",
+            "end_date": "2025-02-05T21:29:08.869Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Overstay",
+            "description": "anim esse ea occaecat id incididunt voluptate",
+            "custom_fine": 2,
+            "status": "pending"
+        },
+        "discount": null,
+        "feedback": {
+            "comment": "cupidatat veniam excepteur proident ea pariatur pariatur minim labore",
+            "rating": 4
+        }
+    },
+    {
+        "transaction_id": 14,
+        "user_id": 66,
+        "parking_slot_id": 338,
+        "vehicle": {
+            "license_number": "LH-1887",
+            "type": "Crew Cab Pickup",
+            "is_ev": true
+        },
+        "entry_time": "19:44",
+        "exit_time": "05:13",
+        "amount_paid": "80",
+        "payment_method": "Subscription",
+        "invoice_niumber": "3866928278709307",
+        "created_at": "2024-02-24T09:56:10.797Z",
+        "updated_at": "2024-09-19T22:08:37.915Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-04-20T14:38:40.843Z",
+            "end_date": "2025-03-31T06:03:30.180Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 15,
+        "user_id": 48,
+        "parking_slot_id": 149,
+        "vehicle": {
+            "license_number": "WX-2695",
+            "type": "Crew Cab Pickup",
+            "is_ev": true
+        },
+        "entry_time": "08:28",
+        "exit_time": "09:17",
+        "amount_paid": "90",
+        "payment_method": "Subscription",
+        "invoice_niumber": "6011761217179895",
+        "created_at": "2024-01-31T20:17:30.250Z",
+        "updated_at": "2024-08-26T04:35:12.043Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-03-08T19:42:07.939Z",
+            "end_date": "2024-10-07T14:37:13.195Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 16,
+        "user_id": 199,
+        "parking_slot_id": 79,
+        "vehicle": {
+            "license_number": "NU-6278",
+            "type": "Passenger Van",
+            "is_ev": false
+        },
+        "entry_time": "21:14",
+        "exit_time": "12:43",
+        "amount_paid": "60",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "3524438224088974",
+        "created_at": "2024-07-29T22:02:30.879Z",
+        "updated_at": "2024-03-04T20:55:25.098Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-06-20T03:56:27.304Z",
+            "end_date": "2024-10-19T06:35:04.405Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "",
+            "rating": 3
+        }
+    },
+    {
+        "transaction_id": 17,
+        "user_id": 141,
+        "parking_slot_id": 208,
+        "vehicle": {
+            "license_number": "ZO-1928",
+            "type": "Extended Cab Pickup",
+            "is_ev": false
+        },
+        "entry_time": "23:58",
+        "exit_time": "16:33",
+        "amount_paid": "60",
+        "payment_method": "Subscription",
+        "invoice_niumber": "376908590497392",
+        "created_at": "2024-07-30T18:33:27.320Z",
+        "updated_at": "2024-03-29T01:37:01.583Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-21T20:04:13.519Z",
+            "end_date": "2025-03-19T18:27:47.773Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "New User Discount",
+            "description": "cupidatat exercitation sint Lorem mollit veniam incididunt commodo mollit officia consectetur incididunt veniam proident veniam in",
+            "percentage": 11
+        },
+        "feedback": {
+            "comment": "id voluptate id do dolore deserunt aliquip in ipsum amet anim duis enim duis mollit",
+            "rating": 4
+        }
+    },
+    {
+        "transaction_id": 18,
+        "user_id": 151,
+        "parking_slot_id": 64,
+        "vehicle": {
+            "license_number": "EX-2370",
+            "type": "Hatchback",
+            "is_ev": false
+        },
+        "entry_time": "00:21",
+        "exit_time": "07:17",
+        "amount_paid": "80",
+        "payment_method": "Subscription",
+        "invoice_niumber": "349561857407481",
+        "created_at": "2024-07-16T13:24:06.958Z",
+        "updated_at": "2024-04-07T22:37:55.139Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-07-27T00:48:41.860Z",
+            "end_date": "2024-10-14T11:35:58.323Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Double Parking",
+            "description": "mollit proident nulla eiusmod reprehenderit cupidatat elit voluptate commodo exercitation exercitation consequat esse est nisi cillum mollit dolore",
+            "custom_fine": 46,
+            "status": "resolved"
+        },
+        "discount": null,
+        "feedback": {
+            "comment": "",
+            "rating": 5
+        }
+    },
+    {
+        "transaction_id": 19,
+        "user_id": 125,
+        "parking_slot_id": 25,
+        "vehicle": {
+            "license_number": "GS-9051",
+            "type": "Convertible",
+            "is_ev": false
+        },
+        "entry_time": "00:29",
+        "exit_time": "22:44",
+        "amount_paid": "60",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "3010214241435196",
+        "created_at": "2024-06-17T00:51:16.740Z",
+        "updated_at": "2024-08-12T19:04:13.486Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-06-23T04:52:54.227Z",
+            "end_date": "2025-04-10T23:14:26.726Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Student Discount",
+            "description": "excepteur consectetur",
+            "percentage": 3
+        },
+        "feedback": {
+            "comment": "esse exercitation eu deserunt pariatur nostrud enim nisi sint quis ullamco",
+            "rating": 3
+        }
+    },
+    {
+        "transaction_id": 20,
+        "user_id": 120,
+        "parking_slot_id": 5,
+        "vehicle": {
+            "license_number": "QA-5075",
+            "type": "Extended Cab Pickup",
+            "is_ev": false
+        },
+        "entry_time": "09:39",
+        "exit_time": "06:05",
+        "amount_paid": "80",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "346434608926139",
+        "created_at": "2024-01-19T15:24:30.527Z",
+        "updated_at": "2024-08-15T21:14:19.090Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-02-10T12:07:31.907Z",
+            "end_date": "2024-11-03T10:44:20.391Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "sit aliquip laboris eiusmod laboris eiusmod dolor",
+            "rating": 5
+        }
+    },
+    {
+        "transaction_id": 21,
+        "user_id": 97,
+        "parking_slot_id": 348,
+        "vehicle": {
+            "license_number": "GE-0309",
+            "type": "Passenger Van",
+            "is_ev": false
+        },
+        "entry_time": "21:50",
+        "exit_time": "05:24",
+        "amount_paid": "90",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "8699136431007369",
+        "created_at": "2024-07-03T12:20:05.246Z",
+        "updated_at": "2024-01-24T04:46:44.098Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-04-22T18:25:55.119Z",
+            "end_date": "2024-11-24T15:04:35.616Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "ad aliqua occaecat exercitation ipsum dolor sit sint Lorem deserunt exercitation est in",
+            "rating": 4
+        }
+    },
+    {
+        "transaction_id": 22,
+        "user_id": 141,
+        "parking_slot_id": 218,
+        "vehicle": {
+            "license_number": "PR-3261",
+            "type": "Coupe",
+            "is_ev": false
+        },
+        "entry_time": "23:11",
+        "exit_time": "06:10",
+        "amount_paid": "70",
+        "payment_method": "Cash",
+        "invoice_niumber": "6011529338334693",
+        "created_at": "2024-01-09T09:13:44.471Z",
+        "updated_at": "2024-05-14T23:50:58.764Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-05-21T17:20:15.397Z",
+            "end_date": "2025-04-10T11:42:21.944Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 23,
+        "user_id": 23,
+        "parking_slot_id": 145,
+        "vehicle": {
+            "license_number": "IP-3658",
+            "type": "Hatchback",
+            "is_ev": true
+        },
+        "entry_time": "21:56",
+        "exit_time": "06:22",
+        "amount_paid": "70",
+        "payment_method": "Subscription",
+        "invoice_niumber": "5273361625952135",
+        "created_at": "2024-10-16T20:08:31.757Z",
+        "updated_at": "2024-10-27T10:22:16.731Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-04-21T01:03:45.232Z",
+            "end_date": "2025-02-05T06:37:00.682Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "exercitation magna voluptate ut eiusmod quis quis voluptate cillum eu pariatur",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 24,
+        "user_id": 166,
+        "parking_slot_id": 76,
+        "vehicle": {
+            "license_number": "OK-8884",
+            "type": "Extended Cab Pickup",
+            "is_ev": false
+        },
+        "entry_time": "10:06",
+        "exit_time": "10:41",
+        "amount_paid": "60",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "3039316046999511",
+        "created_at": "2024-01-10T18:21:58.034Z",
+        "updated_at": "2024-05-21T13:56:34.699Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-07-07T16:50:11.349Z",
+            "end_date": "2025-01-19T17:05:08.630Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "New User Discount",
+            "description": "esse consectetur cupidatat cillum sit aliquip in sint excepteur",
+            "percentage": 10
+        },
+        "feedback": {
+            "comment": "ad veniam non deserunt culpa esse ut pariatur quis occaecat minim ullamco tempor qui",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 25,
+        "user_id": 168,
+        "parking_slot_id": 285,
+        "vehicle": {
+            "license_number": "FJ-6392",
+            "type": "Coupe",
+            "is_ev": false
+        },
+        "entry_time": "21:31",
+        "exit_time": "15:38",
+        "amount_paid": "70",
+        "payment_method": "Subscription",
+        "invoice_niumber": "3578191505248933",
+        "created_at": "2024-07-14T09:21:25.463Z",
+        "updated_at": "2024-10-08T17:08:35.763Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-07-03T01:11:07.373Z",
+            "end_date": "2024-10-11T11:51:58.077Z",
+            "status": false
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Monthly Subscription",
+            "description": "incididunt",
+            "percentage": 7
+        },
+        "feedback": {
+            "comment": "culpa labore voluptate commodo aliqua cupidatat reprehenderit quis ipsum",
+            "rating": 3
+        }
+    },
+    {
+        "transaction_id": 26,
+        "user_id": 107,
+        "parking_slot_id": 108,
+        "vehicle": {
+            "license_number": "XG-1872",
+            "type": "SUV",
+            "is_ev": true
+        },
+        "entry_time": "10:19",
+        "exit_time": "22:14",
+        "amount_paid": "60",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "3503453013554537",
+        "created_at": "2024-06-18T01:29:49.516Z",
+        "updated_at": "2024-01-01T12:37:01.845Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-04-26T03:29:14.987Z",
+            "end_date": "2025-01-20T18:16:15.247Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Illegal Vehicle Type",
+            "description": "tempor minim occaecat duis irure qui",
+            "custom_fine": 75,
+            "status": "pending"
+        },
+        "discount": {
+            "discount_name": "New User Discount",
+            "description": "esse do aliquip non pariatur minim",
+            "percentage": 10
+        },
+        "feedback": {
+            "comment": "laborum esse exercitation ad",
+            "rating": 4
+        }
+    },
+    {
+        "transaction_id": 27,
+        "user_id": 2,
+        "parking_slot_id": 133,
+        "vehicle": {
+            "license_number": "CK-2797",
+            "type": "Minivan",
+            "is_ev": true
+        },
+        "entry_time": "11:00",
+        "exit_time": "22:05",
+        "amount_paid": "60",
+        "payment_method": "Cash",
+        "invoice_niumber": "2014125426700592",
+        "created_at": "2024-05-27T17:14:36.435Z",
+        "updated_at": "2024-12-25T18:11:08.652Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-06-16T18:45:26.811Z",
+            "end_date": "2024-09-11T13:45:26.281Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Weekend Special",
+            "description": "duis",
+            "percentage": 27
+        },
+        "feedback": {
+            "comment": "irure deserunt magna id id dolore ex",
+            "rating": 5
+        }
+    },
+    {
+        "transaction_id": 28,
+        "user_id": 1,
+        "parking_slot_id": 42,
+        "vehicle": {
+            "license_number": "JZ-1311",
+            "type": "Extended Cab Pickup",
+            "is_ev": false
+        },
+        "entry_time": "15:44",
+        "exit_time": "21:27",
+        "amount_paid": "60",
+        "payment_method": "Cash",
+        "invoice_niumber": "6011559455853985",
+        "created_at": "2024-08-04T13:13:40.493Z",
+        "updated_at": "2024-09-05T06:33:15.871Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-02-06T20:30:29.445Z",
+            "end_date": "2024-12-14T01:51:49.834Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Monthly Subscription",
+            "description": "reprehenderit elit Lorem voluptate et occaecat dolor id commodo cillum aute nostrud elit enim eu sit aute qui Lorem exercitation",
+            "percentage": 22
+        },
+        "feedback": {
+            "comment": "cupidatat qui anim ea aute consectetur tempor in",
+            "rating": 4
+        }
+    },
+    {
+        "transaction_id": 29,
+        "user_id": 67,
+        "parking_slot_id": 31,
+        "vehicle": {
+            "license_number": "LT-8029",
+            "type": "Extended Cab Pickup",
+            "is_ev": false
+        },
+        "entry_time": "23:15",
+        "exit_time": "08:23",
+        "amount_paid": "50",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "8699534484034167",
+        "created_at": "2024-06-26T15:10:59.860Z",
+        "updated_at": "2024-09-06T20:13:26.980Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-07-03T16:25:12.959Z",
+            "end_date": "2024-11-29T20:00:31.601Z",
+            "status": false
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 30,
+        "user_id": 34,
+        "parking_slot_id": 203,
+        "vehicle": {
+            "license_number": "QN-2611",
+            "type": "SUV",
+            "is_ev": false
+        },
+        "entry_time": "14:10",
+        "exit_time": "12:00",
+        "amount_paid": "100",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "375697879029189",
+        "created_at": "2024-01-31T16:15:55.570Z",
+        "updated_at": "2024-04-10T23:10:27.200Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-03-25T03:51:38.317Z",
+            "end_date": "2024-10-19T08:13:35.423Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Double Parking",
+            "description": "cillum esse minim enim sunt consectetur do adipisicing exercitation amet non quis enim cupidatat eu",
+            "custom_fine": 28,
+            "status": "resolved"
+        },
+        "discount": {
+            "discount_name": "Student Discount",
+            "description": "",
+            "percentage": 7
+        },
+        "feedback": null
+    },
+    {
+        "transaction_id": 31,
+        "user_id": 166,
+        "parking_slot_id": 65,
+        "vehicle": {
+            "license_number": "XU-0916",
+            "type": "Coupe",
+            "is_ev": false
+        },
+        "entry_time": "00:43",
+        "exit_time": "22:11",
+        "amount_paid": "100",
+        "payment_method": "Cash",
+        "invoice_niumber": "2014027368907120",
+        "created_at": "2024-03-04T07:18:08.591Z",
+        "updated_at": "2024-10-08T12:54:42.659Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-20T13:27:29.990Z",
+            "end_date": "2024-11-23T05:40:42.420Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 32,
+        "user_id": 166,
+        "parking_slot_id": 293,
+        "vehicle": {
+            "license_number": "LZ-6636",
+            "type": "Hatchback",
+            "is_ev": true
+        },
+        "entry_time": "21:35",
+        "exit_time": "05:35",
+        "amount_paid": "100",
+        "payment_method": "Cash",
+        "invoice_niumber": "5239362939170128",
+        "created_at": "2024-09-20T09:08:59.713Z",
+        "updated_at": "2024-03-26T09:14:00.653Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-02-27T03:34:52.646Z",
+            "end_date": "2024-10-09T16:50:45.675Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "aliqua amet ea occaecat veniam ut aliquip nisi duis et anim aliquip ad ex eu consectetur deserunt ipsum mollit",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 33,
+        "user_id": 39,
+        "parking_slot_id": 212,
+        "vehicle": {
+            "license_number": "EI-6036",
+            "type": "Hatchback",
+            "is_ev": false
+        },
+        "entry_time": "04:54",
+        "exit_time": "09:49",
+        "amount_paid": "90",
+        "payment_method": "Cash",
+        "invoice_niumber": "8699006036691513",
+        "created_at": "2024-01-18T07:12:13.364Z",
+        "updated_at": "2024-11-25T09:47:27.086Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-06-30T23:50:23.928Z",
+            "end_date": "2025-03-28T03:14:18.881Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "magna laborum deserunt exercitation commodo",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 34,
+        "user_id": 1,
+        "parking_slot_id": 257,
+        "vehicle": {
+            "license_number": "ZX-6743",
+            "type": "Minivan",
+            "is_ev": true
+        },
+        "entry_time": "20:17",
+        "exit_time": "08:25",
+        "amount_paid": "50",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "6011738046106109",
+        "created_at": "2024-11-13T14:26:40.250Z",
+        "updated_at": "2024-01-18T03:14:34.773Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-26T08:41:13.554Z",
+            "end_date": "2025-01-02T04:47:01.753Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Student Discount",
+            "description": "est labore duis culpa laborum in voluptate officia nulla aliqua in proident duis ad duis aliqua id magna enim Lorem",
+            "percentage": 30
+        },
+        "feedback": {
+            "comment": "reprehenderit deserunt proident ullamco minim proident velit ullamco velit irure magna dolor sit excepteur ea et incididunt do mollit",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 35,
+        "user_id": 134,
+        "parking_slot_id": 31,
+        "vehicle": {
+            "license_number": "NP-9431",
+            "type": "Wagon",
+            "is_ev": false
+        },
+        "entry_time": "22:50",
+        "exit_time": "05:11",
+        "amount_paid": "100",
+        "payment_method": "Cash",
+        "invoice_niumber": "3022022745824419",
+        "created_at": "2024-01-29T18:01:32.903Z",
+        "updated_at": "2024-07-20T00:00:00.549Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-22T05:22:39.840Z",
+            "end_date": "2025-02-15T13:09:21.144Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 36,
+        "user_id": 170,
+        "parking_slot_id": 269,
+        "vehicle": {
+            "license_number": "QY-3600",
+            "type": "Convertible",
+            "is_ev": false
+        },
+        "entry_time": "00:51",
+        "exit_time": "09:23",
+        "amount_paid": "90",
+        "payment_method": "Cash",
+        "invoice_niumber": "4539942483311663",
+        "created_at": "2024-04-29T16:29:59.774Z",
+        "updated_at": "2024-06-25T04:53:03.191Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-03-08T00:12:41.578Z",
+            "end_date": "2025-03-12T00:04:19.026Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Parking in Handicap Spot",
+            "description": "ea occaecat id do reprehenderit sit cillum officia occaecat irure cupidatat commodo qui",
+            "custom_fine": 4,
+            "status": "resolved"
+        },
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 37,
+        "user_id": 123,
+        "parking_slot_id": 154,
+        "vehicle": {
+            "license_number": "MU-3803",
+            "type": "Convertible",
+            "is_ev": false
+        },
+        "entry_time": "20:50",
+        "exit_time": "02:09",
+        "amount_paid": "80",
+        "payment_method": "Subscription",
+        "invoice_niumber": "377951403016644",
+        "created_at": "2024-11-22T03:41:41.963Z",
+        "updated_at": "2024-01-15T00:27:35.841Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-07T02:21:46.104Z",
+            "end_date": "2025-01-14T19:56:09.557Z",
+            "status": false
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 38,
+        "user_id": 14,
+        "parking_slot_id": 111,
+        "vehicle": {
+            "license_number": "FY-1304",
+            "type": "Minivan",
+            "is_ev": false
+        },
+        "entry_time": "16:49",
+        "exit_time": "23:06",
+        "amount_paid": "60",
+        "payment_method": "Cash",
+        "invoice_niumber": "3552034722553133",
+        "created_at": "2024-12-04T02:36:57.565Z",
+        "updated_at": "2024-12-10T03:59:40.138Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-03-07T19:22:54.554Z",
+            "end_date": "2024-11-07T01:21:03.856Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 39,
+        "user_id": 152,
+        "parking_slot_id": 230,
+        "vehicle": {
+            "license_number": "GY-4077",
+            "type": "Hatchback",
+            "is_ev": false
+        },
+        "entry_time": "22:48",
+        "exit_time": "21:46",
+        "amount_paid": "100",
+        "payment_method": "Cash",
+        "invoice_niumber": "3018876435922478",
+        "created_at": "2024-10-06T10:27:13.886Z",
+        "updated_at": "2024-11-11T01:27:09.568Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-06-15T04:39:53.140Z",
+            "end_date": "2025-04-03T05:05:35.994Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 40,
+        "user_id": 96,
+        "parking_slot_id": 300,
+        "vehicle": {
+            "license_number": "GF-0637",
+            "type": "Convertible",
+            "is_ev": false
+        },
+        "entry_time": "06:32",
+        "exit_time": "21:24",
+        "amount_paid": "80",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "342601186885762",
+        "created_at": "2024-10-17T13:13:37.805Z",
+        "updated_at": "2024-01-07T09:00:49.880Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-05-22T15:11:30.627Z",
+            "end_date": "2024-10-29T17:11:37.530Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "labore amet Lorem qui ut velit excepteur reprehenderit in do cupidatat aliquip esse cillum deserunt anim in elit fugiat cupidatat",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 41,
+        "user_id": 28,
+        "parking_slot_id": 147,
+        "vehicle": {
+            "license_number": "CC-2565",
+            "type": "Cargo Van",
+            "is_ev": false
+        },
+        "entry_time": "19:17",
+        "exit_time": "15:10",
+        "amount_paid": "50",
+        "payment_method": "Subscription",
+        "invoice_niumber": "3595348162572869",
+        "created_at": "2024-08-15T23:56:51.869Z",
+        "updated_at": "2024-02-25T20:31:22.787Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-06-13T11:27:59.161Z",
+            "end_date": "2024-11-23T15:18:49.175Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "minim anim do non dolor ea aute",
+            "rating": 1
+        }
+    },
+    {
+        "transaction_id": 42,
+        "user_id": 180,
+        "parking_slot_id": 351,
+        "vehicle": {
+            "license_number": "SX-0244",
+            "type": "Minivan",
+            "is_ev": false
+        },
+        "entry_time": "19:43",
+        "exit_time": "05:41",
+        "amount_paid": "80",
+        "payment_method": "Subscription",
+        "invoice_niumber": "349087337567116",
+        "created_at": "2024-12-26T13:00:10.716Z",
+        "updated_at": "2024-02-25T07:04:36.252Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-13T17:21:26.517Z",
+            "end_date": "2025-01-16T23:38:22.326Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Double Parking",
+            "description": "excepteur ex ad quis mollit ad sit",
+            "custom_fine": 81,
+            "status": "resolved"
+        },
+        "discount": {
+            "discount_name": "Student Discount",
+            "description": "proident duis ullamco culpa fugiat amet ex anim incididunt",
+            "percentage": 13
+        },
+        "feedback": null
+    },
+    {
+        "transaction_id": 43,
+        "user_id": 12,
+        "parking_slot_id": 316,
+        "vehicle": {
+            "license_number": "IC-3063",
+            "type": "SUV",
+            "is_ev": false
+        },
+        "entry_time": "15:26",
+        "exit_time": "20:16",
+        "amount_paid": "90",
+        "payment_method": "Cash",
+        "invoice_niumber": "6011639054369771",
+        "created_at": "2024-05-07T03:26:56.377Z",
+        "updated_at": "2024-02-24T12:42:47.002Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-02-22T10:44:41.731Z",
+            "end_date": "2025-02-02T04:29:38.366Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 44,
+        "user_id": 136,
+        "parking_slot_id": 163,
+        "vehicle": {
+            "license_number": "VM-8754",
+            "type": "Convertible",
+            "is_ev": false
+        },
+        "entry_time": "03:53",
+        "exit_time": "04:37",
+        "amount_paid": "50",
+        "payment_method": "Subscription",
+        "invoice_niumber": "6011496890898244",
+        "created_at": "2024-06-19T01:53:58.978Z",
+        "updated_at": "2024-04-02T07:26:28.352Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-04-01T16:30:12.101Z",
+            "end_date": "2025-04-05T02:35:53.446Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Student Discount",
+            "description": "id deserunt sint laborum laborum pariatur pariatur dolor deserunt ad exercitation culpa ut sit enim ex irure tempor",
+            "percentage": 16
+        },
+        "feedback": {
+            "comment": "excepteur irure ullamco nostrud enim do deserunt esse nisi culpa elit excepteur laboris",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 45,
+        "user_id": 110,
+        "parking_slot_id": 131,
+        "vehicle": {
+            "license_number": "RA-3765",
+            "type": "SUV",
+            "is_ev": true
+        },
+        "entry_time": "07:34",
+        "exit_time": "03:34",
+        "amount_paid": "60",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "8699810774696323",
+        "created_at": "2024-08-20T05:18:09.883Z",
+        "updated_at": "2024-07-05T00:04:28.527Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-02-04T18:06:49.474Z",
+            "end_date": "2025-01-09T12:14:38.353Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Parking in Handicap Spot",
+            "description": "",
+            "custom_fine": 60,
+            "status": "resolved"
+        },
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 46,
+        "user_id": 53,
+        "parking_slot_id": 325,
+        "vehicle": {
+            "license_number": "JO-2126",
+            "type": "Sedan",
+            "is_ev": false
+        },
+        "entry_time": "16:42",
+        "exit_time": "14:38",
+        "amount_paid": "80",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "371210918221660",
+        "created_at": "2024-01-21T20:49:05.332Z",
+        "updated_at": "2024-09-11T19:21:51.609Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-03-28T01:37:47.803Z",
+            "end_date": "2024-09-06T19:41:21.898Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 47,
+        "user_id": 9,
+        "parking_slot_id": 325,
+        "vehicle": {
+            "license_number": "IN-8983",
+            "type": "Extended Cab Pickup",
+            "is_ev": false
+        },
+        "entry_time": "00:43",
+        "exit_time": "16:54",
+        "amount_paid": "100",
+        "payment_method": "Subscription",
+        "invoice_niumber": "3686010103128504",
+        "created_at": "2024-08-05T10:49:24.369Z",
+        "updated_at": "2024-10-20T03:40:07.323Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-05-22T06:39:50.751Z",
+            "end_date": "2024-11-28T09:52:01.727Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 48,
+        "user_id": 111,
+        "parking_slot_id": 125,
+        "vehicle": {
+            "license_number": "HN-1817",
+            "type": "Convertible",
+            "is_ev": false
+        },
+        "entry_time": "23:17",
+        "exit_time": "07:45",
+        "amount_paid": "90",
+        "payment_method": "Subscription",
+        "invoice_niumber": "6011839196838739",
+        "created_at": "2024-06-29T08:54:53.346Z",
+        "updated_at": "2024-06-08T09:16:26.560Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-14T18:22:35.519Z",
+            "end_date": "2025-02-07T12:31:27.163Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "commodo eiusmod ut anim",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 49,
+        "user_id": 138,
+        "parking_slot_id": 336,
+        "vehicle": {
+            "license_number": "ZC-8354",
+            "type": "Minivan",
+            "is_ev": false
+        },
+        "entry_time": "19:41",
+        "exit_time": "11:12",
+        "amount_paid": "80",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "342110890094547",
+        "created_at": "2024-07-13T10:40:50.672Z",
+        "updated_at": "2024-10-08T21:25:19.263Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-05-17T00:22:37.859Z",
+            "end_date": "2024-11-29T07:24:08.535Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 50,
+        "user_id": 43,
+        "parking_slot_id": 137,
+        "vehicle": {
+            "license_number": "LV-2525",
+            "type": "Passenger Van",
+            "is_ev": false
+        },
+        "entry_time": "02:41",
+        "exit_time": "16:36",
+        "amount_paid": "60",
+        "payment_method": "Subscription",
+        "invoice_niumber": "8699574422764913",
+        "created_at": "2024-11-02T18:37:30.894Z",
+        "updated_at": "2024-10-25T08:07:38.594Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-06-09T22:02:55.068Z",
+            "end_date": "2024-10-21T16:43:17.783Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Blocked Exit",
+            "description": "cillum irure consequat",
+            "custom_fine": 90,
+            "status": "resolved"
+        },
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 51,
+        "user_id": 75,
+        "parking_slot_id": 53,
+        "vehicle": {
+            "license_number": "CL-5808",
+            "type": "Crew Cab Pickup",
+            "is_ev": true
+        },
+        "entry_time": "22:06",
+        "exit_time": "11:49",
+        "amount_paid": "70",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "2149284622191474",
+        "created_at": "2024-04-01T02:41:39.427Z",
+        "updated_at": "2024-05-23T11:28:46.745Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-02-10T14:02:10.726Z",
+            "end_date": "2025-04-04T09:45:52.449Z",
+            "status": false
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Student Discount",
+            "description": "pariatur voluptate eiusmod excepteur dolor fugiat ut exercitation et sunt Lorem laboris",
+            "percentage": 15
+        },
+        "feedback": {
+            "comment": "consectetur ullamco aute velit officia in esse duis tempor laboris eu non laboris",
+            "rating": 3
+        }
+    },
+    {
+        "transaction_id": 52,
+        "user_id": 174,
+        "parking_slot_id": 273,
+        "vehicle": {
+            "license_number": "AB-8502",
+            "type": "Passenger Van",
+            "is_ev": false
+        },
+        "entry_time": "15:33",
+        "exit_time": "19:10",
+        "amount_paid": "60",
+        "payment_method": "Subscription",
+        "invoice_niumber": "5271250820094664",
+        "created_at": "2024-05-29T04:19:15.689Z",
+        "updated_at": "2024-05-28T17:39:45.201Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-05-30T21:15:57.674Z",
+            "end_date": "2025-01-26T05:23:39.059Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 53,
+        "user_id": 31,
+        "parking_slot_id": 294,
+        "vehicle": {
+            "license_number": "RK-6182",
+            "type": "Wagon",
+            "is_ev": false
+        },
+        "entry_time": "03:36",
+        "exit_time": "08:50",
+        "amount_paid": "80",
+        "payment_method": "Subscription",
+        "invoice_niumber": "6011625124339605",
+        "created_at": "2024-09-14T22:41:36.126Z",
+        "updated_at": "2024-02-17T17:12:07.864Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-05-04T11:58:40.801Z",
+            "end_date": "2024-10-28T07:48:50.535Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "proident velit deserunt qui",
+            "rating": 1
+        }
+    },
+    {
+        "transaction_id": 54,
+        "user_id": 2,
+        "parking_slot_id": 213,
+        "vehicle": {
+            "license_number": "EL-8575",
+            "type": "Passenger Van",
+            "is_ev": true
+        },
+        "entry_time": "11:53",
+        "exit_time": "17:08",
+        "amount_paid": "80",
+        "payment_method": "Subscription",
+        "invoice_niumber": "5465887074858587",
+        "created_at": "2024-06-01T20:26:57.925Z",
+        "updated_at": "2024-09-28T22:19:34.028Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-07-02T01:30:44.338Z",
+            "end_date": "2025-03-13T10:58:45.560Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Blocked Exit",
+            "description": "occaecat reprehenderit do Lorem nulla aute laborum qui cupidatat dolor",
+            "custom_fine": 96,
+            "status": "pending"
+        },
+        "discount": null,
+        "feedback": null
+    },
+    {
+        "transaction_id": 55,
+        "user_id": 61,
+        "parking_slot_id": 286,
+        "vehicle": {
+            "license_number": "QR-1948",
+            "type": "Cargo Van",
+            "is_ev": false
+        },
+        "entry_time": "00:23",
+        "exit_time": "14:35",
+        "amount_paid": "80",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "3658674300050995",
+        "created_at": "2024-03-22T22:00:40.086Z",
+        "updated_at": "2024-07-03T23:57:04.310Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-04-21T22:55:20.769Z",
+            "end_date": "2025-02-11T12:06:18.708Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Weekend Special",
+            "description": "magna do eu elit irure pariatur consectetur eiusmod aliquip sint ad magna aliqua est sit eu",
+            "percentage": 23
+        },
+        "feedback": {
+            "comment": "esse eu nisi aliquip veniam veniam aliquip commodo tempor aliqua",
+            "rating": 4
+        }
+    },
+    {
+        "transaction_id": 56,
+        "user_id": 43,
+        "parking_slot_id": 253,
+        "vehicle": {
+            "license_number": "ZU-1334",
+            "type": "SUV",
+            "is_ev": false
+        },
+        "entry_time": "22:26",
+        "exit_time": "16:07",
+        "amount_paid": "100",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "3832710012665388",
+        "created_at": "2024-07-09T02:28:57.360Z",
+        "updated_at": "2024-09-19T19:05:47.520Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-03-15T04:03:28.381Z",
+            "end_date": "2024-09-06T15:09:40.300Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Parking in Handicap Spot",
+            "description": "sunt",
+            "custom_fine": 10,
+            "status": "resolved"
+        },
+        "discount": {
+            "discount_name": "Student Discount",
+            "description": "incididunt mollit ad officia incididunt irure tempor exercitation proident mollit officia nostrud ea exercitation",
+            "percentage": 25
+        },
+        "feedback": {
+            "comment": "aliqua in id sint amet officia labore consequat deserunt veniam commodo",
+            "rating": 2
+        }
+    },
+    {
+        "transaction_id": 57,
+        "user_id": 38,
+        "parking_slot_id": 119,
+        "vehicle": {
+            "license_number": "RS-9325",
+            "type": "Coupe",
+            "is_ev": false
+        },
+        "entry_time": "08:00",
+        "exit_time": "22:00",
+        "amount_paid": "80",
+        "payment_method": "Cash",
+        "invoice_niumber": "3036042077412439",
+        "created_at": "2024-01-01T19:06:51.067Z",
+        "updated_at": "2024-02-14T00:04:52.914Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-04-22T09:38:53.305Z",
+            "end_date": "2025-01-15T00:35:49.590Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Blocked Exit",
+            "description": "consequat proident dolor officia exercitation",
+            "custom_fine": 0,
+            "status": "resolved"
+        },
+        "discount": null,
+        "feedback": {
+            "comment": "voluptate culpa dolore enim nisi magna ad sunt ea laboris nostrud do",
+            "rating": 4
+        }
+    },
+    {
+        "transaction_id": 58,
+        "user_id": 156,
+        "parking_slot_id": 26,
+        "vehicle": {
+            "license_number": "IL-9860",
+            "type": "Minivan",
+            "is_ev": true
+        },
+        "entry_time": "23:51",
+        "exit_time": "21:41",
+        "amount_paid": "100",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "8699414406168296",
+        "created_at": "2024-08-02T09:08:05.932Z",
+        "updated_at": "2024-06-01T23:51:41.070Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-21T13:38:06.664Z",
+            "end_date": "2025-01-29T17:29:53.977Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "laborum dolore ex tempor quis occaecat anim eu culpa excepteur irure et do deserunt id incididunt ex nisi",
+            "rating": 3
+        }
+    },
+    {
+        "transaction_id": 59,
+        "user_id": 33,
+        "parking_slot_id": 290,
+        "vehicle": {
+            "license_number": "EX-7705",
+            "type": "Extended Cab Pickup",
+            "is_ev": false
+        },
+        "entry_time": "08:15",
+        "exit_time": "10:57",
+        "amount_paid": "90",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "3893415117350672",
+        "created_at": "2024-02-28T01:12:51.327Z",
+        "updated_at": "2024-01-26T10:23:19.150Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-15T23:59:32.473Z",
+            "end_date": "2025-04-09T08:04:06.856Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "occaecat ullamco anim Lorem cupidatat proident do ullamco",
+            "rating": 1
+        }
+    },
+    {
+        "transaction_id": 60,
+        "user_id": 68,
+        "parking_slot_id": 29,
+        "vehicle": {
+            "license_number": "GO-9200",
+            "type": "Minivan",
+            "is_ev": false
+        },
+        "entry_time": "20:43",
+        "exit_time": "03:33",
+        "amount_paid": "100",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "8699952269978798",
+        "created_at": "2024-07-12T01:46:15.280Z",
+        "updated_at": "2024-08-13T18:08:37.327Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-06-10T05:02:20.136Z",
+            "end_date": "2025-02-11T06:04:31.749Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Early Bird Discount",
+            "description": "magna veniam in enim labore occaecat occaecat commodo voluptate ullamco reprehenderit incididunt excepteur anim magna",
+            "percentage": 20
+        },
+        "feedback": {
+            "comment": "occaecat anim elit sint eu occaecat in aliqua consectetur ad mollit enim laboris irure labore",
+            "rating": 4
+        }
+    },
+    {
+        "transaction_id": 61,
+        "user_id": 168,
+        "parking_slot_id": 174,
+        "vehicle": {
+            "license_number": "LH-5853",
+            "type": "SUV",
+            "is_ev": false
+        },
+        "entry_time": "14:28",
+        "exit_time": "05:35",
+        "amount_paid": "80",
+        "payment_method": "Subscription",
+        "invoice_niumber": "2014351415066353",
+        "created_at": "2024-02-07T22:38:26.960Z",
+        "updated_at": "2024-01-04T03:16:36.639Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-19T01:48:19.030Z",
+            "end_date": "2025-01-17T16:37:24.843Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "sunt quis deserunt ex cupidatat aliqua fugiat esse dolor eu pariatur cupidatat magna voluptate sint mollit",
+            "rating": 5
+        }
+    },
+    {
+        "transaction_id": 62,
+        "user_id": 8,
+        "parking_slot_id": 330,
+        "vehicle": {
+            "license_number": "OW-1682",
+            "type": "Coupe",
+            "is_ev": true
+        },
+        "entry_time": "08:16",
+        "exit_time": "03:56",
+        "amount_paid": "90",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "5165644442173048",
+        "created_at": "2024-06-10T04:26:17.962Z",
+        "updated_at": "2024-10-02T05:40:20.779Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-03-25T20:51:59.608Z",
+            "end_date": "2024-10-07T03:12:32.027Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": {
+            "discount_name": "Weekend Special",
+            "description": "irure excepteur id sit",
+            "percentage": 32
+        },
+        "feedback": null
+    },
+    {
+        "transaction_id": 63,
+        "user_id": 146,
+        "parking_slot_id": 105,
+        "vehicle": {
+            "license_number": "PC-2461",
+            "type": "Convertible",
+            "is_ev": false
+        },
+        "entry_time": "08:05",
+        "exit_time": "19:34",
+        "amount_paid": "70",
+        "payment_method": "Credit Card",
+        "invoice_niumber": "3031459093719396",
+        "created_at": "2024-05-06T16:31:14.592Z",
+        "updated_at": "2024-02-06T02:01:38.001Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-06-01T15:29:46.059Z",
+            "end_date": "2025-04-12T18:59:40.440Z",
+            "status": true
+        },
+        "violations": null,
+        "discount": null,
+        "feedback": {
+            "comment": "",
+            "rating": 4
+        }
+    },
+    {
+        "transaction_id": 64,
+        "user_id": 115,
+        "parking_slot_id": 122,
+        "vehicle": {
+            "license_number": "WB-9038",
+            "type": "Wagon",
+            "is_ev": false
+        },
+        "entry_time": "21:43",
+        "exit_time": "09:15",
+        "amount_paid": "70",
+        "payment_method": "Subscription",
+        "invoice_niumber": "3590077394199580",
+        "created_at": "2024-11-16T19:28:10.562Z",
+        "updated_at": "2024-01-27T08:42:40.869Z",
+        "subscription": {
+            "subscription_name": "",
+            "start_date": "2024-01-30T07:29:11.574Z",
+            "end_date": "2025-01-15T18:05:36.794Z",
+            "status": true
+        },
+        "violations": {
+            "violation_name": "Blocked Exit",
+            "description": "do consectetur do excepteur cillum quis aliqua aliquip",
+            "custom_fine": 52,
+            "status": "pending"
+        },
+        "discount": {
+            "discount_name": "New User Discount",
+            "description": "cillum elit sit proident et laboris sunt exercitation exercitation Lorem qui tempor culpa ipsum ad",
+            "percentage": 19
+        },
+        "feedback": {
+            "comment": "",
+            "rating": 5
+        }
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "facility_name": "Asian Institute of Technology",
+        "open_at": "00:00",
+        "closed_at": "00:00",
+        "monthly_subscription_fee": 1000,
+        "hourly_rate": 20,
+        "height_restriction": "2 M",
+        "total_capacity": 60,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment",
+            "Car Wash Service",
+            "Wide Parking Spots",
+            "Bike Parking",
+            "Number Plate Recognition",
+            "On-site Personal Security"
+        ],
+        "facility_type": "multi",
+        "created_at": "2024-05-23T15:13:26.053Z",
+        "updated_at": "2024-04-23T16:16:17.073Z",
+        "address": {
+            "street": "58 Moo 9, Km. 42, Paholyothin Highway, Klong Luang",
+            "city": "Pathum Thani",
+            "state": "Bangkok",
+            "zip": "12120",
+            "latitude": 14.074136,
+            "longitude": 100.606811
+        },
+        "manager": {
+            "manager_name": "Flora Hettinger",
+            "email": "Flora65@hotmail.com",
+            "phone": "457-872-6927",
+            "address": {
+                "street": "4209 Annalise Walk",
+                "city": "Raman",
+                "state": "Bangkok",
+                "zip": "17120"
+            }
+        }
+    },
+    {
+        "facility_name": "Thammasat University",
+        "open_at": "07:00",
+        "closed_at": "19:00",
+        "monthly_subscription_fee": 1500,
+        "hourly_rate": 30,
+        "height_restriction": "4 M",
+        "total_capacity": 400,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment",
+            "Car Wash Service",
+            "Wide Parking Spots",
+            "Bike Parking",
+            "Number Plate Recognition",
+            "On-site Personal Security"
+        ],
+        "facility_type": "Single",
+        "created_at": "2025-02-20T20:44:11.495Z",
+        "updated_at": "2024-06-15T15:10:46.046Z",
+        "address": {
+            "street": "99 Moo 18, Paholyothin Highway, Klong Luang",
+            "city": "Pathum Thani",
+            "state": "Bangkok",
+            "zip": "12120",
+            "latitude": 14.068003,
+            "longitude": 100.603611
+        },
+        "manager": {
+            "manager_name": "Amanda Green",
+            "email": "Amanda2@yahoo.com",
+            "phone": "294-538-3972",
+            "address": {
+                "street": "19324 Harvey Place",
+                "city": "Kong Krailat",
+                "state": "Bangkok",
+                "zip": "72140"
+            }
+        }
+    },
+    {
+        "facility_name": "Talad Thai",
+        "open_at": "00:00",
+        "closed_at": "00:00",
+        "monthly_subscription_fee": 750,
+        "hourly_rate": 15,
+        "height_restriction": "No Restriction",
+        "total_capacity": 100,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment",
+            "Car Wash Service",
+            "Wide Parking Spots",
+            "Bike Parking",
+            "Number Plate Recognition",
+            "On-site Personal Security"
+        ],
+        "facility_type": "Open Air",
+        "created_at": "2024-11-19T10:45:44.640Z",
+        "updated_at": "2024-03-14T03:29:59.056Z",
+        "address": {
+            "street": "31/ 9 Phahonyothin Rd",
+            "city": "Khlong Nueng",
+            "state": "Bangkok",
+            "zip": "10330",
+            "latitude": 14.082591,
+            "longitude": 100.625481
+        },
+        "manager": {
+            "manager_name": "Josefina Balistreri",
+            "email": "Josefina1@hotmail.com",
+            "phone": "000-332-1402",
+            "address": {
+                "street": "5027 Austen Heights",
+                "city": "Prachamtakham",
+                "state": "Bangkok",
+                "zip": "70170"
+            }
+        }
+    },
+    {
+        "facility_name": "Thakhlong Park",
+        "open_at": "00:00",
+        "closed_at": "00:00",
+        "monthly_subscription_fee": 500,
+        "hourly_rate": 10,
+        "height_restriction": "2.2 M",
+        "total_capacity": 120,
+        "features": [
+            "EV Charging",
+            "CCTV Surveillance",
+            "Covered Parking",
+            "Handicap Access",
+            "Smart Payment",
+            "Car Wash Service",
+            "Wide Parking Spots",
+            "Bike Parking",
+            "Number Plate Recognition",
+            "On-site Personal Security"
+        ],
+        "facility_type": "6 Story",
+        "created_at": "2024-04-21T19:25:04.877Z",
+        "updated_at": "2024-05-26T16:40:17.619Z",
+        "address": {
+            "street": "99/12 Khlong Nueng, Khlong Luang District",
+            "city": "Pathum Thani",
+            "state": "Bangkok",
+            "zip": "12120",
+            "latitude": 14.1039,
+            "longitude": 100.6309
+        },
+        "manager": {
+            "manager_name": "Brent Klein",
+            "email": "Brent.Klein@hotmail.com",
+            "phone": "103-364-5643",
+            "address": {
+                "street": "533 Ruecker Drive",
+                "city": "Khu Mueang",
+                "state": "Bangkok",
+                "zip": "65120"
+            }
+        }
+    }
+]
